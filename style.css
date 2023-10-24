@@ -54,14 +54,6 @@ body{
     border-radius: 50%;
 }
 
-.attribution { 
-    font-size: 11px; text-align: center;
-    position: fixed;
-    bottom: 10px;
-    width: 100vw;
- }
-.attribution a { color: hsl(228, 45%, 44%); }
-
 #mobile-divider{
     display: none;
 }  
